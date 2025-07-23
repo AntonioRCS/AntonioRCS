@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ "Códo" desde 2020.<br>📚 Estou aprendendo Nodejs e Angular.<br>🎯 Goals: Entregar projetos antes da meta!<br>🎲 Cool fact: Tenho experiencia com atendimento ao cliente.</p>
+<p align="left">✨ Programo desde 2020.<br>📚 Estou aprendendo Nodejs e Angular.<br>🎯 Goals: Entregar projetos antes da meta!<br>🎲 Cool fact: Tenho experiencia com atendimento ao cliente.</p>
 
 ###
 
