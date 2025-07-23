@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<h3 align="left">Musica é minha paixão! Ouça comigo minhas musicas recentes!</h3>
+<h3 align="left">Musica é minha paixão! Ouça comigo algumas delas!</h3>
 
 ###
 
