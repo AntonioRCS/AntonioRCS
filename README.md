@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Antônio Ricardo, sou um Desenvolvedor Front-End especializado em Reactjs.<br><br>Tenho foco em criar soluções compactas e rápidas para problemas difíceis.<br>Extrovertido, comunicativo e criativo trabalho muito bem em equipe.</p>
+<p align="left">Meu nome é Antônio Ricardo, sou um Desenvolvedor Front-End especializado em Reactjs.<br><br>Tenho foco em criar soluções compactas e rápidas para problemas difíceis.<br>Extrovertido, comunicativo e criativo, trabalho muito bem em equipe.</p>
 
 ###
 
