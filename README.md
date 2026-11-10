@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Antônio Ricardo, sou um Desenvolvedor Front-End especializado em Reactjs.<br><br>Tenho foco em criar soluções compactas e rápidas para problemas difíceis.<br>Extrovertido, comunicativo e criativo, trabalho muito bem em equipe.</p>
+<p align="left">Meu nome é Antônio Ricardo, sou um Desenvolvedor Front-End especializado em React.js.<br><br>Tenho foco em criar soluções compactas e rápidas para problemas difíceis.<br>Extrovertido, comunicativo e criativo, trabalho muito bem em equipe.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programo desde 2020.<br>📚 Estou aprendendo Nodejs e Angular.<br>🎯 Goals: Entregar projetos antes da meta!<br>🎲 Cool fact: Tenho experiencia com atendimento ao cliente.</p>
+<p align="left">✨ Programo desde 2020.<br>📚 Estou aprendendo Nodejs e Angular.<br>🎯 Goals: Entregar projetos antes da meta!<br>🎲 Cool fact: Tenho experiência com atendimento ao cliente.</p>
 
 ###
 
@@ -42,7 +42,7 @@
 
 <br clear="both">
 
-<h3 align="left">Musica é minha paixão! Ouça comigo algumas delas!</h3>
+<h3 align="left">Música é minha paixão! Ouça comigo algumas delas!</h3>
 
 ###
 
